@@ -1,0 +1,10 @@
+{
+  "name": "paper",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "~4.16.0",
+    "polybooljs": "^1.2.0",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0"
+  }
+}
